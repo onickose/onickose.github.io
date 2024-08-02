@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onickose.github.io/sitemap.html.gz
+Sitemap: https://onickose.github.io/app/sitemap.html.gz
+Sitemap: https://onickose.github.io/assets/sitemap.html.gz
+Sitemap: https://onickose.github.io/css/sitemap.html.gz
+Sitemap: https://onickose.github.io/includes/sitemap.html.gz
+Sitemap: https://onickose.github.io/item/sitemap.html.gz
+Sitemap: https://onickose.github.io/src/sitemap.html.gz
